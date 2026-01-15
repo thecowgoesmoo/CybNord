@@ -9,4 +9,7 @@ This project was inspired by an excellent wikihow from from amandaghassaei: http
 
 Use the also excellent Hairless MIDI application to read the serial stream from the Tau pedals: http://projectgus.github.io/hairless-midiserial/
 
+**UPDATE**
+The v3 Arduino sketch now makes use of a CD74HC4067 analog multiplexer PCB from Amazon to scan 9 drawbars with a single Arduino analog input.  I still need to design a case for this bad boy.  When I do, I'll upload files for laser cutting here.  
+
 <img src="CybNord-drawbars.jpg" alt="Ugly but functional">
