@@ -12,5 +12,5 @@ Use the also excellent Hairless MIDI application to read the serial stream from 
 **UPDATE**
 The v3 Arduino sketch now makes use of a CD74HC4067 analog multiplexer PCB from Amazon to scan 9 drawbars with a single Arduino analog input.  I still need to design a case for this bad boy.  When I do, I'll upload files for laser cutting here.  
 
-<img src="CybNordBack.jpg" alt="rear">
-<img src="CybNordFront.jpg" alt="front">
+<img src="CybNordBack.jpeg" alt="rear">
+<img src="CybNordFront.jpeg" alt="front">
